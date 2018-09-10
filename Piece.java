@@ -17,7 +17,7 @@ public class Piece {
 		kinged = true;
 	}
 	
-	public boolean getKinged() {
+	public boolean isKinged() {
 		return kinged;
 	}
 	
