@@ -1,8 +1,7 @@
 package com;
 
 public class Board {
-	// This class will act as a logical representation of a checkers board. It will keep track of the
-	// state of the board.
+	// This board object will keep track of the state of the board.
 	
 	public static final int xSquares = 10; //  A checker board has 10 squares on the x axis
 	public static final int ySquares = 10; // A checker board has 10 squares on the y axis
