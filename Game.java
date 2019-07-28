@@ -144,12 +144,6 @@ public class Game extends JPanel {
 			currentX = X_START;
         }	
 		
-		/*
-		for (int i=0; i<NUM_CHECKERS; i++) {
-			g2d.setPaint(Color.RED);
-			System.out.println("X: " + checkerPt[i].getX() + " Y: " + checkerPt[i].getY());
-			g2d.drawOval((int) checkerPt[i].getX(), (int) checkerPt[i].getY(), 60, 60);
-		}*/
 	}
 	
 
